@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TasteRe</string>
+    <string name="tab_my_list">My List</string>
+    <string name="tab_suggest">Suggest</string>
+    <string name="profile_button_description">Navigate to the Profile Page</string>
+    <string name="restaurant_item_text_placeholder">Restaurant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
